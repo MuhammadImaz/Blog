@@ -3,6 +3,7 @@ import HeroImage from "../assets/HeroImage.svg";
 import Post1Image from "../assets/posts/post1.jpg";
 import PostProfileImage from "../assets/posts/post-profile.svg";
 import CtaImage from "../assets/CtaImage.jpg";
+import Hero from "../assets/Hero.svg";
 const samplePostImage = "/images/sample.jpg";
 const userImage = "/images/user.png";
 
@@ -14,6 +15,7 @@ const images = {
   CtaImage,
   samplePostImage,
   userImage,
+  Hero,
 };
 
 export default images;
